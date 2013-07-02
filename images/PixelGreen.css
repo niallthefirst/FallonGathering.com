@@ -61,6 +61,11 @@ img.float-left {
   margin: 5px 15px 5px 0px;
 }
 
+.photos
+{
+	width: 200px;
+	height: auto;
+	}
 code {
   margin: 5px 0;
   padding: 10px;
